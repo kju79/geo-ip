@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/geo-ip/static/css/main.ad9cc6b0.chunk.css",
+    "main.js": "/geo-ip/static/js/main.4dad4a20.chunk.js",
+    "main.js.map": "/geo-ip/static/js/main.4dad4a20.chunk.js.map",
+    "runtime-main.js": "/geo-ip/static/js/runtime-main.27aab6cf.js",
+    "runtime-main.js.map": "/geo-ip/static/js/runtime-main.27aab6cf.js.map",
+    "static/css/2.6f3a26c5.chunk.css": "/geo-ip/static/css/2.6f3a26c5.chunk.css",
+    "static/js/2.0e274d36.chunk.js": "/geo-ip/static/js/2.0e274d36.chunk.js",
+    "static/js/2.0e274d36.chunk.js.map": "/geo-ip/static/js/2.0e274d36.chunk.js.map",
+    "index.html": "/geo-ip/index.html",
+    "precache-manifest.fc44098ca0f1870e7ec3ed16fb528341.js": "/geo-ip/precache-manifest.fc44098ca0f1870e7ec3ed16fb528341.js",
+    "service-worker.js": "/geo-ip/service-worker.js",
+    "static/css/2.6f3a26c5.chunk.css.map": "/geo-ip/static/css/2.6f3a26c5.chunk.css.map",
+    "static/css/main.ad9cc6b0.chunk.css.map": "/geo-ip/static/css/main.ad9cc6b0.chunk.css.map",
+    "static/js/2.0e274d36.chunk.js.LICENSE.txt": "/geo-ip/static/js/2.0e274d36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27aab6cf.js",
+    "static/css/2.6f3a26c5.chunk.css",
+    "static/js/2.0e274d36.chunk.js",
+    "static/css/main.ad9cc6b0.chunk.css",
+    "static/js/main.4dad4a20.chunk.js"
+  ]
+}
