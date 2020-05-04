@@ -1,0 +1,99 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#wrapper {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+}
+
+#infobox {
+  display: flex;
+
+  /* text-align:center; */
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid #909090;
+  background-color: #c5c5c5;
+  width: 378px;
+  height: 700px;
+  box-shadow: 0px 0px 40px 5px rgba(0, 0, 0, 0.43);
+}
+
+#flag {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  width: 380px;
+  height: 40px;
+}
+
+.arrow {
+  width: 12px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 40px;
+  background-color: #b5b5b5;
+  border-style: solid;
+  border-right: 1px;
+  border-width: 1px;
+  border-color: grey;
+}
+.icon img {
+  height: 22px;
+}
+
+.value {
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+  width: 350px;
+  height: 40px;
+  background-color: lightgray;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#theFlag {
+  width: 120px;
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.43);
+}
+
+#tZone {
+  font-size: 0.75em;
+  padding-left: 30px;
+}
+
+#mapText {
+  font-size: 1.1em;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+#showMap {
+  maxwidth: 350px;
+  minwidth: 300px;
+  height: 100px;
+  background-color: #000;
+}

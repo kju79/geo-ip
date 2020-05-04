@@ -1,0 +1,37 @@
+{
+  "homepage": "http://kju79.github.io/geo-ip",
+  "name": "geo-ip",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "leaflet": "1.6.0",
+    "luxon": "^1.23.0",
+    "mdbreact": "4.26.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-leaflet": "2.6.3",
+    "react-scripts": "3.0.1",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-icon": "2.3.3",
+    "semantic-ui-react": "0.88.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
